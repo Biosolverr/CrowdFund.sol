@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# env
+.env
+.env.*
+
+# hardhat / general build artifacts
+cache/
+artifacts/
+typechain/
+coverage/
+coverage.json
+
+# foundry
+out/
+forge-cache/
+
+# misc
+.DS_Store
+.idea/
+.vscode/
+*.log
